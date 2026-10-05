@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article aria-labelledby="page-title">
+  <h1 id="page-title">{{ page.title }}</h1>
+  {% if page.lead %}<p class="lead">{{ page.lead }}</p>{% endif %}
+  {{ content }}
+  {% assign nav = site.data.navigation %}
+  {% for item in nav %}{% if item.url == page.url %}{% assign idx = forloop.index0 %}{% endif %}{% endfor %}
+  <nav class="pager" aria-label="Page navigation">
+    {% assign prev = idx | minus: 1 %}{% assign next = idx | plus: 1 %}
+    {% if idx > 0 %}<a rel="prev" href="{{ nav[prev].url | relative_url }}">&larr; {{ nav[prev].title }}</a>{% else %}<span></span>{% endif %}
+    {% if next < nav.size %}<a rel="next" href="{{ nav[next].url | relative_url }}">{{ nav[next].title }} &rarr;</a>{% endif %}
+  </nav>
+</article>
