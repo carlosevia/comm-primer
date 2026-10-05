@@ -1,0 +1,12 @@
+title: Comm Primer
+description: Communication theory for the age of AI, in plain language.
+lang: en
+# GitHub Pages project site: https://carlosevia.github.io/comm-primer/
+url: "https://carlosevia.github.io"
+baseurl: "/comm-primer"
+github_username: carlosevia
+repository: carlosevia/comm-primer
+author: Carlos Evia
+markdown: kramdown
+permalink: pretty
+exclude: [README.md, Gemfile.lock, vendor, node_modules]
