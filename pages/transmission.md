@@ -6,7 +6,7 @@ lead: "What Shannon-Weaver illuminates, and what humanist critique reveals that 
 ---
 ## The problem
 
-*Placeholder: describe the communication problem you analyze.*
+Shannon and Weaver are old. Actually, they are dead. 
 
 ## What Shannon-Weaver illuminates
 
