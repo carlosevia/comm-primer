@@ -6,7 +6,7 @@ lead: "How Umberto Eco's model of intentions, with an added intentio algorithmi,
 ---
 ## Intentio auctoris, lectoris, operis
 
-*Placeholder.*
+This is cool
 
 ## Intentio algorithmi
 
