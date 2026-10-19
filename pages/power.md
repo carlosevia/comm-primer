@@ -11,3 +11,7 @@ lead: "How Stuart Hall's encoding/decoding explains who controls the meaning."
 ## Who controls the meaning?
 
 *Placeholder.*
+
+Life is bad
+
+Life is amaazing

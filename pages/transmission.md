@@ -14,4 +14,8 @@ Shannon and Weaver are old. Actually, they are dead.
 
 ## What humanist critique reveals
 
-*Placeholder.*
+Life is good.
+
+Life is bad
+
+### Monkeys
